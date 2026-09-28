@@ -1,4 +1,3 @@
-```bash
 termux-setup-storage
 pkg update -y && pkg upgrade -y
 pkg install -y python git nano curl
@@ -16,4 +15,3 @@ alias ll='ls -lah'
 alias grab='cp -r ~/meme-templates /sdcard/Download/'
 EOF
 source ~/.bashrc
-```
